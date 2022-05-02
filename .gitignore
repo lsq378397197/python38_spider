@@ -148,3 +148,4 @@ cython_debug/
 out
 gen
 /ext/
+/ch3/userdata/
